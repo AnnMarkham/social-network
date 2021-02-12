@@ -1,7 +1,5 @@
 const { Schema, model } = require("mongoose");
 
-// do i need to format date?
-
 const UserSchema = new Schema(
   {
     username: {
@@ -21,6 +19,12 @@ const UserSchema = new Schema(
         type: Schema.Types.ObjectId,
         ref: "Thought",
       },
+    ],
+    friends: [
+        {
+            type: "Schema.Types.ObjectId",
+            ref: "User"
+        }
     ],
   },
   {
