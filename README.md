@@ -32,9 +32,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
   ## Installation Instructions:
   npm install packages and run server.js
   ## How To Use
-  See video demo 
-    <link rel href="assets/Demo.gif">Click here to view demo video/>
- 
+    View Demo Video In assets folder. 
+    
   ## Questions
   Feel free to contact me with questions - see below for contact details
   ### Github page:
