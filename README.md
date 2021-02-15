@@ -33,7 +33,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
   npm install packages and run server.js
   ## How To Use
   See video demo 
-    <link rel href="./assets/Demo.gif"/>
+    <link rel href="assets/Demo.gif">Click here to view demo video/>
  
   ## Questions
   Feel free to contact me with questions - see below for contact details
